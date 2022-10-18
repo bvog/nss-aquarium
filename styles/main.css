@@ -1,0 +1,41 @@
+.fish-component {
+    font-family: 'Nunito', sans-serif;
+}
+
+.fishList {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    /* flex-wrap: wrap; */
+    flex-flow: column wrap;
+    justify-content: center;
+    /* align-items: center; */
+
+}
+
+.fish__image {
+    width: 100px;
+    height: 100px;
+
+}
+
+.fish-header {
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+}
+
+.caretips-section {
+    /* display: flex;
+    justify-content: flex-end; */
+}
+
+.havesting-section {
+    /* display: flex;
+    justify-content: flex-start; */
+}
+
+.harvesting-heading {
+    /* display: flex;
+    justify-content: center; */
+}
