@@ -39,3 +39,14 @@
     /* display: flex;
     justify-content: center; */
 }
+
+
+.quotesHeader {
+    font-size: 25px;
+}
+
+.list-of-fishes {
+    display: flex;
+    justify-content: center;
+
+}
